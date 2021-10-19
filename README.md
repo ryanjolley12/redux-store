@@ -69,6 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
+<img width="1160" alt="Screen Shot 2021-10-19 at 5 08 45 PM" src="https://user-images.githubusercontent.com/83616082/137992091-c4a50e2c-b7b0-419d-b764-3f3f8f1343b5.png">
+
+
+<img width="1421" alt="Screen Shot 2021-10-19 at 5 08 41 PM" src="https://user-images.githubusercontent.com/83616082/137992109-d985dbc7-4f18-4e9d-ab6d-a735cf38a7ff.png">
+
+
+<img width="929" alt="Screen Shot 2021-10-19 at 5 08 35 PM" src="https://user-images.githubusercontent.com/83616082/137992121-3747d176-39fb-4c4f-8a5c-9b9a79053ec3.png">
+
+<img width="1429" alt="Screen Shot 2021-10-19 at 5 08 26 PM" src="https://user-images.githubusercontent.com/83616082/137992133-3b12f91d-5e64-4248-a868-67a3d94f4b28.png">
+
+
+## Heroku
+https://blooming-bayou-73257.herokuapp.com
+
 ## Contributors
 With Help from SPENCER 
 https://github.com/SBerkebile7/C22-Redux-Store
